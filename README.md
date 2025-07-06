@@ -1,7 +1,6 @@
-# 🔷 Software 3D Renderer in C (with SDL2)
+# 🔷 3D Renderer in C (with SDL2)
 
-A complete 3D software rendering engine written in pure C, using the SDL2 library for display. This project demonstrates how to render 3D models from scratch without relying on hardware acceleration (OpenGL, DirectX, Vulkan). Perfect for learning the core concepts of 3D graphics pipelines.
-
+A 3D rendering engine written in pure C, using the SDL2 library for display. This project demonstrates how to render 3D models from scratch without relying on hardware acceleration (OpenGL, DirectX, Vulkan).
 ## ✨ Features
 
 - ✅ **3D Model Loading**
